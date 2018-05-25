@@ -24,6 +24,7 @@
       <div class="form-group">
         <label>RT</label>
         <select type="text" class="form-control" name="rt">
+          <option value="NONE"> --Pilih Satu--</option>
           <option value="001"> 001 </option>
           <option value="002"> 002 </option>
           <option value="003"> 003 </option>
